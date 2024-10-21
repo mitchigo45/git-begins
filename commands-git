@@ -4,4 +4,4 @@ Commit les fichier : git commit -m "message explicite"
 Publié sur github, push tes fichier : git push origin main
 Commande pour pull/récupéré un fichier : git pull origin main
 Ajoue d'une branche : git branch [nom de la nouvelle branche]
-Changer de branche : git checkout [nom de la branche]
+Changer de branche : git checkout [nom de la branche voulu]
