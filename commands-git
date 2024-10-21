@@ -1,0 +1,4 @@
+Cloner un repository : git clone [lien du repository]
+Ajouter les fichier : git add (. : ajouter tout les fichier et sous dossier du dossier courant)
+Commit les fichier : git commit -m "message explicite"
+Publié sur github, push tes fichier : git push origin main
